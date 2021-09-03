@@ -1,3 +1,6 @@
+//author : Tushar Khanduri [https://github.com/Tushar-K24]
+//problem link: https://www.codingninjas.com/codestudio/problems/move-all-negative-numbers-to-beginning-and-positive-to-end_1112620?leftPanelTab=1
+
 #include <bits/stdc++.h>
 using namespace std;
 
